@@ -1,14 +1,14 @@
 class Translation(object):
 
-    START_TEXT = """Hello,
-User This is a Telegram URL Upload Bot![Team Librarian](https://telegra.ph/file/453ed9d1a2bf6a30c5502.png)
-
-<b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
+    START_TEXT = """Hello User,
+<b>leaseis a Telegram URL Upload Bot!
+Please send me any Direct download URL link, I can upload to telegram as File/Video <b>
 
 /help for more details..
 
-Specially designed for : @Team Librarian
-"""
+Specially designed for : 
+<b> @Team_Librarian <b>
+ """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
     
@@ -32,9 +32,9 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>👉 IF YOU MEED SOURCE CODE THEN GO TO @TEAM_LIBRARIAN AND TAKE YOUR🥺🥭!!</a>"
+    UPGRADE_TEXT = "<b>If you need it's source code, Dm @Purushottam_Mahajan & @AniMesH941 Made with 🐍♥ by Team Librarian  </a>"
     
-    DOWNLOAD_START = "Trying to download your file...😘"
+    DOWNLOAD_START = "Trying to download your file...😘🤦"
     
     UPLOAD_START = "🙈Uploading now.."
     
@@ -50,8 +50,8 @@ URL | newfilename | username | password"""
 
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
 
-    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
+    NO_VOID_FORMAT_FOUND = "🥺ERROR...\n<b>YouTubeDL</b> said: {}"
     
-    SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail."
+    SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail.🤦🙈"
     
     NO_THUMB = "No saved thumbnails Found!!\n\nSend an image to save it as your thumbnail permanently."    
