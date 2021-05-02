@@ -1,24 +1,24 @@
 class Translation(object):
 
-    START_TEXT = """Hello User,
-<b>leaseis a Telegram URL Upload Bot!
-Please send me any Direct download URL link, I can upload to telegram as File/Video <b>
+    START_TEXT = """*Hello User*,
+**Theaseis a Telegram URL Upload Bot!**
+**Please send me any Direct download URL link, I can upload to telegram as File/Video**
 
 /help for more details..
 
 Specially designed for : 
-<b> @Team_Librarian <b>
+** @Team_Librarian **
  """
 
-    HELP_USER = """Hai I'am a URL Uploader bot..
+    HELP_USER = """</b> **Hai I'am a URL Uploader bot** </b>
     
-1. Send url (Link | New Name with Extension).
+</b> 1. Send url (Link | New Name with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File with Screenshots
-   Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
+   📽️SVideo - Give File as video with Screenshots
+   📂DFile  - Give File with Screenshots
+   🎥Video  - Give File as video without Screenshots
+   📂™️DFile  - Give File without Screenshot.</b>
 
 Specially Designed For : @Team_Librarian
 """
@@ -32,7 +32,7 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>If you need it's source code, Dm @Purushottam_Mahajan & @AniMesH941 Made with 🐍♥ by Team Librarian </a>"
+    UPGRADE_TEXT = "</b>**If you need it's source code, Dm @Purushottam_Mahajan & @AniMesH941 Made with 🐍♥ by Team Librarian **</b>"
     
     DOWNLOAD_START = "Trying to download your file...😘🤦"
     
