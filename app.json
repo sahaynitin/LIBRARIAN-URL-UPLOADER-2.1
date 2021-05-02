@@ -1,14 +1,15 @@
 {
   "name": "URL Uploader",
-  "description": "Telegram's Open Source URL Uploader Bot. Create your Fork now.",
+  "description": "Telegram's Open Source URL Uploader Bot. Degsined By Team Librarian",
+  "logo": "https://telegra.ph/file/453ed9d1a2bf6a30c5502.png"
   "keywords": [
     "telegram",
     "url",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/prgofficial",
-  "repository": "https://github.com/prgofficial/URLuploader-With-Hotstar",
+  "success_url": "https://telegram.dog/LibrarianUrlDL_Bot",
+  "website": "https://github.com/PURUSHOTTAM",
+  "repository": "https://github.com/PURHSHOTTAM/LIBRARIAN-URL-UPLOADER_ROBOT",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
@@ -16,15 +17,15 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token from @botfather, as a string.",
-      "value": ""
+      "value": "1611513963:AAGbKPVSoaNd0ZS-Azisw_zk06VPz8W8ZOc"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "3424006"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "29baf8264ea87d14a8dcf1344808fc79"
     },
     "SCREENSHOTS": {
       "description": "Generate screenshots for file after uploading ( True or false )",
@@ -33,7 +34,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "680815375"
+      "value": "1684835578 958007042"
     },
     "BANNED_USERS": {
       "description": "Ban Unwanted members..",
@@ -42,7 +43,7 @@
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail link to be used in the videos if youtube-dl is unable to find a thumbnail. Get a link for your image from @TGraphHEXbot",
-      "value": "",
+      "value": "https://telegra.ph/file/4bf346ab1fbe3b964f10e.jpg",
       "required": false
     },
     "HTTP_PROXY": {
