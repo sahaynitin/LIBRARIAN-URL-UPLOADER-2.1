@@ -32,7 +32,7 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>If you need it's source code, Dm @Purushottam_Mahajan & @AniMesH941 Made with 🐍♥ by Team Librarian  </a>"
+    UPGRADE_TEXT = "<b>If you need it's source code, Dm @Purushottam_Mahajan & @AniMesH941 Made with 🐍♥ by Team Librarian </a>"
     
     DOWNLOAD_START = "Trying to download your file...😘🤦"
     
