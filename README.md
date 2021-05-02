@@ -27,12 +27,12 @@
     <a href="https://telegram.dog/Team_Librarian"><img src="https://img.shields.io/badge/Team%20Librarian---%F0%9D%91%BF-blue?&logo=telegram&style=social" width=220px></a></p>
 # How To Host {CREAT} 
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/LIBRARIAN-UPLOADER"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/LIBRARIAN-URL-UPLOADER_ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## How To Deploy 
 * With Heroku:<b>Just Click On Image Given Below<b>
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN-PACK"><img src="https://telegra.ph/file/d6f19e66ea24527a25673.png" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/LIBRARIAN-URL-UPLOADER_ROBOT/blob/Auth-Only/R"><img src="https://telegra.ph/file/d6f19e66ea24527a25673.png" alt="Press to Takeoff" width="490px"></a>
  ###COMMNANDS FOR USEAGE
  /start  - Check if bot is alive
 * /help- To know how the bot works
