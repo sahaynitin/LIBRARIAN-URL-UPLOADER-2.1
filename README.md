@@ -14,13 +14,13 @@
 <h1>TEAM-LIBRARIAN</h1>
 <b> The Best Url Uploader Robot</b>
 <b>Special Features<b>
-<b\n>👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html<b\n>
+<b>👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html<b>
 
-<b\n>👉 Upload as file from any HTTP link<b\n>
+<b>👉 Upload as file from any HTTP link<b>
 
-<b\n>👉 Permanent thumbnail support.<b\n>
+<b>👉 Permanent thumbnail support.<b>
 
-<b\n>👉 Added HOTSTAR Link Support!!  (Won't work on European Servers!!)<b\n>
+<b>👉 Added HOTSTAR Link Support!!  (Won't work on European Servers!!)<b>
 
 <br>
 <br>
