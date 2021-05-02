@@ -13,15 +13,14 @@
 </p>
 <h1>TEAM-LIBRARIAN</h1>
 <b> The Best Url Uploader Robot</b>
-<b>Special Features<b>
-<b>👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html<b>
+<b>`Special Features`<b>
+```👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+👉 Upload as file from any HTTP link
 
-<b>👉 Upload as file from any HTTP link<b>
+👉 Permanent thumbnail support.
 
-<b>👉 Permanent thumbnail support.<b>
-
-<b>👉 Added HOTSTAR Link Support!!  (Won't work on European Servers!!)<b>
-
+👉 Added HOTSTAR Link Support!!  (Won't work on European Servers!!)
+```
 <br>
 <br>
 <p align="center">
@@ -34,3 +33,9 @@ The easiest way to deploy this Bot
 * With Heroku:<b>Just Click On Image Given Below<b>
 <p align="center">
    <a href = "https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/TEAM-LIBRARIAN-PACK"><img src="https://telegra.ph/file/d6f19e66ea24527a25673.png" alt="Press to Takeoff" width="490px"></a>
+ ###COMMNANDS FOR USEAGE
+ /start  - Check if bot is alive
+* /help- To know how the bot works
+* /upgrade- Nothing much here
+* /deletethumbnail- Clear saved thumbnail
+* /showthumb - Show saved thumbnail
