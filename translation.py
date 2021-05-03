@@ -10,39 +10,38 @@ __/help for more details..__
 **Specially designed for** : **@Team_Librarian**
     """
 
-    HELP_USER = """**Hi...** **🍃 I'am a URL Uploader bot** 😍 
+    HELP_USER = """**Hi 🍃 I'am a URL Uploader bot😍**
 
-**1} Send url (Link | New Name with Extension)**
-**2} Send Custom Thumbnail (Optional)**
-
-**3} Select the desired format 
-  **🎞  - Stream format (left side)**
-  **📁  - File format (right side)**
+**1} Send url (Link | New Name with Extension)
+2} Send Custom Thumbnail (Optional)
+3} Select the desired format 
+    🎞  - Stream format (left side)
+    📁  - File format (right side)**
 
 **If you want to set custom thumbnail, send photo or Use auto-generated 📸 Thumbnail**
 
 **Specially Designed For** : **@Team_Librarian**
 """
 
-    FORMAT_SELECTION = """**Select the desired format**
+    FORMAT_SELECTION = """**Select the desired format
  "<a herf='{}'> File Sizs Might Be approximate</a>"
-   **🎞  - Stream format (left side)
-   📁  - File format (right side)**
+   🎞  - Stream format (left side)
+   📁  - File format (right side)
    
 **If you want to set custom thumbnail, send photo or Use auto-generated 📸 Thumbnail**
 
-**You can use /deletethumbnail to delete the auto-generated thumbnail**
+You can use `/deletethumbnail` to delete the auto-generated thumbnail.
 
-**Powered By @Team_Librarian™️**
+Powered By @Team_Librarian™️
 """
     
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "*If you need it's source code, Dm @Purushottam_Mahajan & @AniMesH941 Made with 🐍♥ by Team Librarian*"
+    UPGRADE_TEXT = "**If you need it's source code, Dm @Purushottam_Mahajan & @AniMesH941 Made with 🐍♥ by Team Librarian**"
     
-    DOWNLOAD_START = "Trying to download your file...😘🤦"
+    DOWNLOAD_START = "```Trying to download your file...😘🤦```"
     
     UPLOAD_START = "🙈Uploading now.."
     
